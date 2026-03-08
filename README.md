@@ -23,3 +23,6 @@ Build a **One-Person AI Company** with a human + agent core team:
 - **Roy (AI Co-founder):** execution, orchestration, continuity
 
 We’re building in public, shipping fast, and learning through action.
+
+---
+Built by Cacel (@cacel-man) — github.com/cacel-man
